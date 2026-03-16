@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 ## Some things about me
 
 
-- I know **[Basic C , HTML , Javascript , CSS , Python ]**
+- I know **[Basic C , HTML , Javascript , CSS , Python, Javascript, SQL ]**
 - Currently Working on: 
-- I'm Studying **[C++ , Java , SQL, PHP , Pygame]**
+- I'm Studying **[CSharp, Java]**
 - My future plans: Making A Game, Working In Passionate Projects and Drinking Coffee
 - I'm into Gaming, Anime and Dev
