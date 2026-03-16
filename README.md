@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 - Currently Working on: 
 - I'm Studying **[C++ , Java , SQL, PHP , Pygame]**
 - My future plans: Making A Game, Working In Passionate Projects and Drinking Coffee
-- I'm into Gaming, Anime and Developing
+- I'm into Gaming, Anime and Dev
