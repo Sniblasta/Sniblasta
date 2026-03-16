@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - I know **[Basic C , HTML , Javascript , CSS , Python, Javascript, SQL ]**
-- Currently Working on: 
+- Currently Working on: An Unity solo project
 - I'm Studying **[CSharp, Java]**
 - My future plans: Making A Game, Working In Passionate Projects and Drinking Coffee
 - I'm into Gaming, Anime and Dev
