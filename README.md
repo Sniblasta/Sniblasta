@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hey, I'm Snib and I'm Learning to Code in various languages
+# Hey, I'm Nick and I'm Learning to Code in various languages
 
 
 ## Some things about me
