@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## Some things about me
 
 
-- I know **[Basic C , HTML , Javascript , Python ]**
+- I know **[Basic C , Javascript , Python ]**
 - Currently Working on: An Unity solo project
 - I'm Studying **[CSharp, Java]**
 - My future plans: Making A Game, Working In Passionate Projects and Drinking Coffee
