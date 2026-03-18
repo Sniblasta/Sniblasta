@@ -16,4 +16,3 @@ You can click the Preview link to take a look at your changes.
 - Currently Working on: An Unity solo project
 - I'm Studying **[CSharp, Java]**
 - My future plans: Making A Game, Working In Passionate Projects and Drinking Coffee
-- I'm into Gaming, Anime and Dev
